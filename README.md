@@ -8,6 +8,7 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+
 - Load the dataset including numerical features (R&D Spend, Administration, Marketing Spend) and categorical feature (State), then separate the target variable (Profit).
 
 - Apply one-hot encoding to convert the State categorical variable into numerical form while avoiding dummy variable trap by dropping the first category.
@@ -114,8 +115,8 @@ plt.show()
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
-<img width="1083" height="637" alt="Screenshot 2025-10-06 140755" src="https://github.com/user-attachments/assets/1639f092-5af4-41b9-a450-fe747667fa7e" />
-<img width="1267" height="570" alt="Screenshot 2025-10-06 140739" src="https://github.com/user-attachments/assets/c001aab1-ea02-4bab-8dfc-cb87276f9fa5" />
+<img width="1267" height="570" alt="Screenshot 2025-10-06 140739" src="https://github.com/user-attachments/assets/00b6302e-4ef7-4a03-958d-14989c0e645f" />
+<img width="1083" height="637" alt="Screenshot 2025-10-06 140755" src="https://github.com/user-attachments/assets/64fae074-e535-45ed-b936-2662700af579" />
 
 
 ## Result:
