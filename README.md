@@ -110,7 +110,7 @@ plt.show()
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+
 <img width="1305" height="659" alt="Screenshot 2025-10-06 142000" src="https://github.com/user-attachments/assets/2f3c0706-52e7-4e1c-a0d4-899928cad5ae" />
 <img width="1096" height="586" alt="Screenshot 2025-10-06 142027" src="https://github.com/user-attachments/assets/88958424-2482-4a06-8192-610b78716888" />
 
